@@ -1,0 +1,7 @@
+  # Action definition for moving to a goal position
+geometry_msgs/PoseStamped goal
+
+---
+# Result of the action
+bool success
+
